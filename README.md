@@ -4,7 +4,7 @@ This is a simple drum kit based on HTML,CSS and VanillaJS.
 This project will help you understand the basic concepts like 
 <ul>
   <li>data- attribute in HTML5</li>
-  <li> " <kbd> " tag used in HTML </li>
+  <li> kbd tag used in HTML </li>
   <li> Events like keydown and transitionend of the JavaScript </li>
   <li> How to add,remove and toggle the class using the .classList.add() function </li>
 </ul>
